@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @showbit01
+- 👋 Hi, I’m Shobhit
 - 👀 I’m interested in working on the projects related to machine learning,deep learning,computer vision,block chain.
 - 🌱 I’m currently looking for opportunities for product developement.
 - 💞️ I’m looking to collaborate on projects related to artificial intelligence.
