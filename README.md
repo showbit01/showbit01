@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shobhit.
 - 👀 I’m interested in working on the projects related to machine learning,deep learning,computer vision.
-- 🌱 I’m currently looking for product developement jobs.
+- 🌱 I’m currently looking for product developement/Research development roles in organizations.
 - 💞️ I’m looking to collaborate on projects related to artificial intelligence.
 - 📫 Reach out to me on linkedin: https://www.linkedin.com/in/showbit01/
 
